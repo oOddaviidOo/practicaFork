@@ -1,4 +1,4 @@
-Juego de Tronos
+﻿Juego de Tronos
 El Juego de Ender
 La Historia Interminable
 Un tal Lucas
@@ -8,3 +8,6 @@ La llamada de lo salvaje
 La Llamada de Cthulhu
 La Casa de los Espíritus
 El Hobbit
+Maldito Karma
+El principito
+El quijote
