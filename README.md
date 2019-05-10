@@ -5,4 +5,5 @@ Añade a continuación tu nombre y apellidos:
 + Juan Antonio Asensi
 + David Velasco
 + Gastón Peterlana
++ Sergio Cano
 + Juan Sanz
