@@ -1,4 +1,4 @@
-﻿Juego de Tronos
+Juego de Tronos
 El Juego de Ender
 La Historia Interminable
 Un tal Lucas
@@ -11,9 +11,12 @@ El Hobbit
 Maldito Karma
 El principito
 El quijote
-Teo va al colegio
-Teo va al dentista 
-Teo va al parque
 Libro 1
 Libro 2
 Libro 3
+Harry Potter
+La casa alemana
+Memorias de una salvaje
+Teo va al colegio
+Teo va al dentista 
+Teo va al parque
