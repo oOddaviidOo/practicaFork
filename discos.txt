@@ -12,3 +12,6 @@ Divide
 Bad
 Xscape
 Thriller
+Disco 1
+Disco 2
+Disco 3

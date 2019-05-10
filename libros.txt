@@ -11,3 +11,6 @@ El Hobbit
 Maldito Karma
 El principito
 El quijote
+Libro 1
+Libro 2
+Libro 3
