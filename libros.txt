@@ -14,3 +14,6 @@ El quijote
 Teo va al colegio
 Teo va al dentista 
 Teo va al parque
+Libro 1
+Libro 2
+Libro 3
