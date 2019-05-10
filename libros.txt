@@ -1,4 +1,4 @@
-Juego de Tronos
+﻿Juego de Tronos
 El Juego de Ender
 La Historia Interminable
 Un tal Lucas
@@ -20,3 +20,6 @@ Memorias de una salvaje
 Teo va al colegio
 Teo va al dentista 
 Teo va al parque
+Erase una vez
+Matematicas
+Lenguaje
