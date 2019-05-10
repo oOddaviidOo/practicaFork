@@ -15,3 +15,6 @@ Thriller
 Valira
 La Raiz
 Aspencat
+Disco 1
+Disco 2
+Disco 3
