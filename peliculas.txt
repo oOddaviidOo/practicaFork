@@ -20,3 +20,6 @@ Peli 3
 Titanic
 Batman
 Spiderman
+Piratas del Caribe
+Piratas del Caribe 2
+Piratas del Caribe 3
